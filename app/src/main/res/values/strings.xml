@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Instant Food</string>
+
+    <string-array name="nama_product">
+        <item>The Campbell Soup Company</item>
+        <item>Indomie</item>
+        <item>Quaker Oats Company</item>
+        <item>Samyang</item>
+        <item>SariRoti</item>
+        <item>La Fonte</item>
+        <item>Totino's Pizza Rolls</item>
+    </string-array>
+    <string-array name="detail_product">
+        <item>The Campbell Soup Company, juga dikenal sebagai Campbell, adalah produsen sup kalengan dan produk terkait yang dijual di 120 negara di seluruh dunia. Ini bermarkas di Camden, New Jersey. Campbell membagi diri menjadi tiga divisi: divisi "makanan sederhana", yang sebagian besar terdiri atas sup yang dikondensasikan atau siap saji; divisi "snack panggang", yang mencakup Pepperidge Farm; dan divisi "minuman kesehatan", yang mencakup jus V8.</item>
+        <item>Indomie adalah merek mie instan yang diproduksi oleh perusahaan Indonesia; Indofood Sukses Makmur Tbk, lebih dikenal sebagai Indofood. Ini didistribusikan di Australia, Asia, Afrika, Selandia Baru, Amerika Serikat, Kanada, Eropa, dan negara-negara Timur Tengah. Di luar pabrik-pabrik manufaktur utama di Indonesia, Indomie juga diproduksi di Nigeria sejak tahun 1995 di mana merek ini populer dan memiliki pabrik mi instan terbesar di Afrika.</item>
+        <item>The Quaker Oats Company, yang dikenal sebagai Quaker, adalah konglomerat makanan Amerika yang berbasis di Chicago. Telah dimiliki oleh PepsiCo sejak tahun 2001.</item>
+        <item>Mie Korea yang memiliki rasa sangat pedas atau yang lebih dikenal dengan Samyang merupakan mie instan yang diproduksi dari Negara Korea Selatan ini memiliki rasa yang begitu terkenal pedasnya dan banyak yang ingin mencoba mie samyang ini. Rasa pedas yang sangat begitu pedas ini membuat para pencoba nya pun terus-terusan untuk mengonsumsinya. Selain rasa pedas yang khas yang dimiliki mie samyang ini, porsi yang dua kali lipat dari mie instan biasanya pun menjadi kepuasaan tersendiri bagi pengonsumsinya. Mie samyang ini memiliki dua rasa yaitu Hot Spicy Chicken dan Chesse. Rasa mie samyang chesse ini belum banyak beredar dan masih jarang ditemukan. Mie samyang biasanya dapat ditemukan di Indomaret, Alfa Mart, FoodHall, Sevel Eleven dan lain-lain. Mie samyang pun ketika dikirim ke Indonesia diberi label halal, namun masih terdapat mie samyang yang tidak ada label halalnya. Hal itu pun tidak membuat para penyukanya tidak membeli dan mengonsumsi mie samyang. Banyaknya orang yang gemar mengonsumsi mie samyang, membuat para penjualnya pun mengambil untung. Mie samyang yang berbentuk kemasan maupun cup ini bisa dijual pada kisaran harga Rp15000 hingga Rp22000. Tak hanya di ambil keuntungan oleh para penjualnya, Mie samyang ini pun dijadikan sebuah tantangan dimana yang dapat menghambiskan terlebih dahulu dan kuat dengan rasa pedas yang dimilikinya dialah pemenangnya. Tantangan itu pun mereka pertunjukan di dalam akun media sosial mereka. Hal ini pun membuat mie samyang terus menjadi mie instan favorite di lingkungan masyarakat.</item>
+        <item>Sari Roti merupakan sebuah merek roti ternama di Indonesia yang diproduksi oleh PT. Nippon Indosari Corpindo. Merek roti ini pertama kali ditampilkan pada tahun 1995. Saat ini PT. Nippon Indosari Corpindo telah memproduksi berbagai macam produk roti tawar dan roti manis dengan merek dagang Sari Roti dan Boti, serta memproduksi chiffon cake dengan merek dagang Sari Cake.</item>
+        <item>Dikenal karena rasanya yang menggugah selera, La Fonte diproduksi dari gandum durum terpilih yang membuatnya menjadi pilihan makanan sehat. Di antara banyak kelebihan La Fonte adalah kandungan proteinnya yang tinggi, rendah lemak, serat ekstra dan elastisitas, yang mampu mempertahankan tekstur pasta selama semua tahap memasak atau pemanasan ...</item>
+        <item>Pizza Rolls adalah produk makanan beku yang dibuat oleh pengusaha industri makanan Jeno Paulucci, yang mengkhususkan diri pada makanan beku Cina, pada tahun 1951. Setelah Jeno menjual merek tersebut pada tahun 1985, dibeli oleh Pillsbury yang memiliki pizza Totino. Pada 1993, Jeno's Pizza Rolls diganti namanya menjadi Totino's Pizza Rolls.
+
+Makanan ringan datang dalam berbagai rasa termasuk Keju, Kombinasi, Pepperoni, Triple Pepperoni, Sosis, Supreme, Triple Cheese, dan Triple Meat.
+
+Berkat serangkaian spoof komersial pada Saturday Night Live, Totino telah melihat peningkatan popularitas dan penjualan dengan gulung pizza mereka.</item>
+    </string-array>
+</resources>
